@@ -1,0 +1,15 @@
+#boxes {
+  display: flex;
+}
+
+#box1 {
+  margin: 40px;
+  width: 50%;
+  border: solid 1px darkblue;
+}
+
+#box2 {
+  margin: 40px;
+  width: 50%;
+  border: solid 1px maroon;
+}
